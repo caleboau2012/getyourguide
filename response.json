@@ -1,0 +1,79 @@
+{
+	"schedule": {
+		"summary": {
+			"budget_spent": 578,
+			"time_in_relocation": 210,
+			"total_activities": 9
+		},
+		"days": [{
+			"day": 1,
+			"itinerary": [{
+				"start": "10:00",
+				"activity": {
+					"id": 6679,
+					"duration": 60,
+					"price": 17
+				}
+			}, {
+				"start": "11:30",
+				"activity": {
+					"id": 6594,
+					"duration": 210,
+					"price": 21
+				}
+			}, {
+				"start": "15:30",
+				"activity": {
+					"id": 6877,
+					"duration": 240,
+					"price": 106
+				}
+			}, {
+				"start": "20:00",
+				"activity": {
+					"id": 6865,
+					"duration": 30,
+					"price": 168
+				}
+			}]
+		}, {
+			"day": 2,
+			"itinerary": [{
+				"start": "10:00",
+				"activity": {
+					"id": 6647,
+					"duration": 30,
+					"price": 59
+				}
+			}, {
+				"start": "11:00",
+				"activity": {
+					"id": 6659,
+					"duration": 150,
+					"price": 33
+				}
+			}, {
+				"start": "14:00",
+				"activity": {
+					"id": 6616,
+					"duration": 180,
+					"price": 31
+				}
+			}, {
+				"start": "17:30",
+				"activity": {
+					"id": 6741,
+					"duration": 120,
+					"price": 94
+				}
+			}, {
+				"start": "20:00",
+				"activity": {
+					"id": 6779,
+					"duration": 90,
+					"price": 49
+				}
+			}]
+		}]
+	}
+}
