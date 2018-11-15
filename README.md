@@ -13,3 +13,5 @@ I made the following assumptions
 
 1. There is more value in going for more events and going for plenty events than in going for particularly huge events
 2. The user wishes to spend his money and is not frugal
+
+In summary, this solution maximises the number of events and budget utilisation given the constraints of the solution.

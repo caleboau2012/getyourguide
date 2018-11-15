@@ -3,7 +3,7 @@ const planner = require('./planner');
 const middleware = require('./constraints');
 
 const app = express();
-app.use(express.urlencoded({extended: true}));
+app.use(express.urlencoded({ extended: true }));
 
 app.get('/', (req, res) => {
     res.send("Welome to trips.com.ng")
@@ -19,5 +19,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(3000, (err) => {
-	console.log('PS Project Running on port 3000!');
+    console.log('PS Project Running on port 3000!');
 });
